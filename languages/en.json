@@ -1,0 +1,68 @@
+{
+    "app_name": "LexVi",
+    "app_title": "LexVi - Lexical Analysis Learning Tool",
+    "file_menu": "File",
+    "edit_menu": "Edit",
+    "view_menu": "View",
+    "language_menu": "Language",
+    "help_menu": "Help",
+    "new_file": "New",
+    "open_file": "Open",
+    "save_file": "Save",
+    "exit": "Exit",
+    "undo": "Undo",
+    "redo": "Redo",
+    "zoom_in": "Zoom In",
+    "zoom_out": "Zoom Out",
+    "about": "About",
+    "run": "Run",
+    "step": "Step",
+    "reset": "Reset",
+    "export": "Export",
+    "ready": "Ready",
+    "programming_languages": {
+        "java": "Java",
+        "cpp": "C++",
+        "c": "C"
+    },
+    "dfa_customization": {
+        "add_state": "Add State",
+        "add_transition": "Add Transition",
+        "delete_state": "Delete State",
+        "delete_transition": "Delete Transition",
+        "make_accepting": "Make Accepting",
+        "make_non_accepting": "Make Non-Accepting",
+        "state_name": "State Name",
+        "transition_label": "Transition Label",
+        "from_state": "From State",
+        "to_state": "To State",
+        "start_state": "Start State",
+        "accepting_states": "Accepting States",
+        "transitions": "Transitions"
+    },
+    "token_table": {
+        "lexeme": "Lexeme",
+        "token": "Token",
+        "line": "Line",
+        "column": "Column"
+    },
+    "sidebar": {
+        "editor": "Editor",
+        "explorer": "Explorer",
+        "settings": "Settings",
+        "dfa_custom": "DFA Customization"
+    },
+    "about_text": "LexVi - Smart Learning Tool for Lexical Analysis and DFA\nVersion 1.0\n\nA tool designed to help students learn lexical analysis concepts.",
+    "status": {
+        "ready": "Ready",
+        "processing": "Processing...",
+        "error": "Error"
+    },
+    "messages": {
+        "about": "LexVi - Smart Learning Tool for Lexical Analysis and DFA\nVersion 1.0\n\nA tool designed to help students learn lexical analysis concepts.",
+        "error": "Error",
+        "success": "Success",
+        "compilation_error": "Compilation Error",
+        "runtime_error": "Runtime Error"
+    }
+}
